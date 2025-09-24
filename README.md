@@ -7,3 +7,7 @@ Actualmente estoy por terminar mi curso para convertirme en analista de datos pr
 Los lenguajes que estoy practicando son SQL, Python/Pandas, NumPy, Matplotlib, Seaborn, SciPy, EDA, etc.
 
 Actualmente trabajo en control de calidad de estudios de mercado farmacéutico pero estoy lista para encontrar un rol relacionado con el procesamiento y análisis de datos en un ámbito nuevo
+
+Para saber más de mí: 
+[LinkedIn] (www.linkedin.com/in/emilia-prats-z)
+[Correo] (prats.e@hotmail.com)

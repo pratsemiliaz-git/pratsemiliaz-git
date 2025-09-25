@@ -3,12 +3,19 @@
 # Hola, soy Emilia! 👩‍💻
 
 Soy aspirante a analista de datos con interés en convertir información en respuestas y decisiones.
-me entusiasma encontrar patrones y corregir datos para optimizar resultados. 
+Me entusiasma encontrar patrones y corregir datos para optimizar resultados. 
 
-Estoy por terminar mi curso para convertirme en analista de datos profesional
-Los lenguajes que estoy practicando son SQL, Python/Pandas, NumPy, Matplotlib, Seaborn, SciPy, EDA, etc.
+Estoy por terminar mi curso para convertirme en analista de datos profesional.
+Los lenguajes que estoy practicando son: 
+1) SQL
+2) Python/Pandas
+3) NumPy
+4) Matplotlib
+5) Seaborn
+6) SciPy
+7) EDA
 
-Actualmente trabajo en control de calidad de estudios de mercado farmacéutico pero estoy lista para encontrar un rol relacionado con el procesamiento y análisis de datos en un ámbito nuevo
+Actualmente trabajo en control de calidad de estudios de mercado farmacéutico pero estoy lista para encontrar un rol relacionado con el procesamiento y análisis de datos en un ámbito nuevo.
 
 Para saber más de mí: 
 

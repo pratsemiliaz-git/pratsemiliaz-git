@@ -12,6 +12,4 @@ Actualmente trabajo en control de calidad de estudios de mercado farmacéutico p
 
 Para saber más de mí: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/emilia-prats-z)
-
 [![Correo](https://img.shields.io/badge/Correo-pink)](prats.e@hotmail.com)

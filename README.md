@@ -9,5 +9,7 @@ Los lenguajes que estoy practicando son SQL, Python/Pandas, NumPy, Matplotlib, S
 Actualmente trabajo en control de calidad de estudios de mercado farmacéutico pero estoy lista para encontrar un rol relacionado con el procesamiento y análisis de datos en un ámbito nuevo
 
 Para saber más de mí: 
-[LinkedIn] (www.linkedin.com/in/emilia-prats-z)
-[Correo] (prats.e@hotmail.com)
+
+[LinkedIn](www.linkedin.com/in/emilia-prats-z)
+
+[Correo](prats.e@hotmail.com)

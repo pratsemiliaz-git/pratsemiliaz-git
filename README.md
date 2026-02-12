@@ -1,22 +1,19 @@
 <img width="1584" height="396" alt="Banner_GH" src="https://github.com/user-attachments/assets/167c2a1a-a1ab-4067-bf0e-122bfadadef7" />
 
-# Hola, soy Emilia! 👩‍💻
+# Hi, I’m Emilia! 👩‍💻
 
-Soy aspirante a analista de datos con interés en convertir información en respuestas y decisiones.
-Me entusiasma encontrar patrones y corregir datos para optimizar resultados. 
+I’m an aspiring data analyst with a strong interest in transforming data into insights that support decision-making. I enjoy identifying patterns, cleaning data, and improving data quality to drive better results.
 
-Estoy por terminar mi curso para convertirme en analista de datos profesional.
-Los lenguajes que estoy practicando son: 
-1) SQL
-2) Python/Pandas
-3) NumPy
-4) Matplotlib
-5) Seaborn
-6) SciPy
-7) EDA
+I’m currently finishing my training to become a professional data analyst. My technical skills include working with:
+1) SQL  
+2) Python (Pandas, NumPy)  
+3) Data Visualization (Matplotlib, Seaborn, Tableau)  
+4) Exploratory Data Analysis (EDA)  
+5) SciPy  
+6) Excel (intermediate to advanced)
 
-Actualmente trabajo en control de calidad de estudios de mercado farmacéutico pero estoy lista para encontrar un rol relacionado con el procesamiento y análisis de datos en un ámbito nuevo.
+I currently work in quality control within pharmaceutical market research, where I ensure data accuracy and consistency. I’m now ready to transition into a role focused on data processing, analysis, and visualization in a new and challenging environment.
 
-Para saber más de mí: 
+To learn more about me:
 
 [![Correo](https://img.shields.io/badge/Correo-pink)](prats.e@hotmail.com)

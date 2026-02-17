@@ -17,4 +17,4 @@ I currently work in quality control within pharmaceutical market research, where
 To learn more about me:
 
 [![Correo](https://img.shields.io/badge/Correo-pink)](prats.e@hotmail.com)
-[![Landing_Page](https://img.shields.io/badge/Landing-blue)](https://emiliadaportfolio.my.canva.site/)
+[![Landing_Page](https://img.shields.io/badge/Landing Page-green)](https://emiliadaportfolio.my.canva.site/)

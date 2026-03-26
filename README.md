@@ -4,7 +4,7 @@
 
 I’m an aspiring data analyst with a strong interest in transforming data into insights that support decision-making. I enjoy identifying patterns, cleaning data, and improving data quality to drive better results.
 
-I’m currently finishing my training to become a professional data analyst. My technical skills include working with:
+I recently completed a ccertification to become a professional data analyst. My technical skills include working with:
 1) SQL  
 2) Python (Pandas, NumPy)
 3) PowerBI
@@ -18,4 +18,4 @@ I currently work in quality control within pharmaceutical market research, where
 To learn more about me:
 
 [![Correo](https://img.shields.io/badge/Correo-pink)](prats.e@hotmail.com)
-[![Landing_Page](https://img.shields.io/badge/Landing-Page-green)](https://emiliadaportfolio.my.canva.site/)
+[![LandingPage](https://img.shields.io/badge/Landing-Page-green)](https://emiliadaportfolio.my.canva.site/)
